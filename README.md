@@ -1,6 +1,6 @@
 # SPINDE
 
-**Spatial multi-omics integration based on a dual-graph attention autoencoder with pairwise contrastive learning.**
+**A spatial multi-omics integration framework based on a dual-graph attention autoencoder with pairwise contrastive learning.**
 
 SPINDE integrates two molecular modalities measured at matched tissue locations, including RNA–protein and RNA–chromatin accessibility data. It learns a joint embedding for spatial-domain identification and downstream biological analysis.
 
